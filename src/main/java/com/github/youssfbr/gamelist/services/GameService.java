@@ -1,6 +1,7 @@
 package com.github.youssfbr.gamelist.services;
 
 import com.github.youssfbr.gamelist.dtos.GameMinDTO;
+import com.github.youssfbr.gamelist.dtos.GameMinDTOClass;
 import com.github.youssfbr.gamelist.repositories.IGameRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

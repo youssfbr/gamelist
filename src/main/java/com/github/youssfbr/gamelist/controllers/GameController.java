@@ -1,6 +1,7 @@
 package com.github.youssfbr.gamelist.controllers;
 
 import com.github.youssfbr.gamelist.dtos.GameMinDTO;
+import com.github.youssfbr.gamelist.dtos.GameMinDTOClass;
 import com.github.youssfbr.gamelist.services.IGameService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
